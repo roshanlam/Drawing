@@ -1,7 +1,5 @@
 # Drawing
 
-A simple software (like paint) programmed in Java. 
-
 Features :
 
 * Draw anything
